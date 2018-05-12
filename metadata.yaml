@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '6853'
     url: http://www.gutenberg.org/2009/agents/6853
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16660#The-Story-of-the-6th-Battalion-The-Durham-Light-InfantryFrance-April-1915-November-1918
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-09-05'
 gutenberg_type: Text
