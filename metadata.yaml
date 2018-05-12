@@ -1,0 +1,29 @@
+_repo: The-Story-of-the-6th-Battalion-The-Durham-Light-InfantryFrance-April-1915-November-1918_16660
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Ainsworth, Ralph Bignell, Sir
+    alias: Ainsworth, R. B.
+    gutenberg_agent_id: '6853'
+    url: http://www.gutenberg.org/2009/agents/6853
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- Great Britain'
+- !lcc 'D501'
+- !lcsh 'Great Britain. Army. Durham Light Infantry'
+title: 'The Story of the 6th Battalion, The Durham Light Infantry
+
+  France, April 1915-November 1918'
+url: http://www.gutenberg.org/ebooks/16660
